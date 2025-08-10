@@ -1,0 +1,29 @@
+# Maven / Gradle
+/target/
+!*/src/main/**/resources/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+*.iws
+out/
+
+# macOS
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
+
+# Java
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Others
+/.idea/
+.vscode/
