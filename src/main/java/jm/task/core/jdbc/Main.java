@@ -21,7 +21,7 @@ public class Main {
                 boolean userAdded = false;
 
                 while (!userAdded) {
-                    System.out.println("Введите имя пользователяя :");
+                    System.out.println("Введите имя пользователя:");
                     String firstName = scanner.nextLine();
 
                     System.out.println("Введите фамилию пользователя:");
